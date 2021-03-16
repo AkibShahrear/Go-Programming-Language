@@ -10,6 +10,12 @@ Price float32
 Pages int
 }
 
+type Student struct{
+Color [ ]string
+Name string
+Age string
+Roll int
+}
 
 func main(){
 

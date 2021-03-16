@@ -13,9 +13,9 @@ x["name"] = "Akib"
 x["Height"] = "5.7"
 x["address"] = "Dhaka"
 
-delete(x , height)
+delete(x , height) //delete
 
-fmt.Print(x["address"])
+fmt.Print(x["address"]) //get value
 
 }
 
